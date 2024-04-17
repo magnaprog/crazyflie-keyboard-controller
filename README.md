@@ -28,7 +28,7 @@ git clone https://github.com/magnaprog/crazyflie-keyboard-controller.git
 2. Navigate to the cloned repository:
 
 ```bash
-cd your-repo-name
+cd crazyflie-keyboard-controller
 ```
 
 ## Usage
